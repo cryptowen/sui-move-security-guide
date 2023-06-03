@@ -1,0 +1,6 @@
+[book]
+authors = ["cryptowen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Sui Move Security Guide"
