@@ -3,12 +3,14 @@
 Welcome to the Sui Move Security Guide!
 
 Security is paramount for blockchain projects due to their high value and tamper-proof nature.
+
 Move language is known for its strong security features, but even with these advantages,
 there are still important considerations to keep in mind.
+
 In this guide, we will explore best practices and strategies for developing secure contracts in the Sui Move.
+
 Whether you are a seasoned developer or just starting out, this guide will provide valuable insights to help
 you build safe and reliable contracts.
-
 
 ## Community
 
@@ -22,6 +24,5 @@ We encourage you to join the Sui Move community to stay up to date with the late
 Sui Move Security Guide is free and open source.
 If you have any suggestions or corrections, please submit a pull request or open an issue.
 
-
 ## License
-This book is released under the .
+This book is released under the `CC-BY-4.0 license`.

@@ -73,4 +73,4 @@ Module 0000000000000000000000000000000000000000000000000000000000000000::test_nf
 $ sui move coverage source --module suia
 ```
 
-![coverage-test.png](../assets/coverage-test.png)
+![coverage-test.png](./assets/coverage-test.png)

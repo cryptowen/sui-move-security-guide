@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Sui Move Security Guide"
+
+[output.html]
+mathjax-support = true
+site-url = "/"
+git-repository-url = "https://github.com/cryptowen/sui-move-security-guide"
+edit-url-template = "https://github.com/cryptowen/sui-move-security-guide/edit/main/{path}"
